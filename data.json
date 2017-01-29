@@ -1,0 +1,5 @@
+{
+    "api": "https://github.com/hoge/fuga-api",
+    "notational-fzf-vim": "https://github.com/Alok/notational-fzf-vim",
+    "vaffle.vim": "https://github.com/cocopon/vaffle.vim"
+}
